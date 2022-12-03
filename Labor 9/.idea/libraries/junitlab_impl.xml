@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="junitlab-impl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/junitlab-impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/junitlab-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junitlab-impl.jar!/" />
+    </SOURCES>
+  </library>
+</component>
